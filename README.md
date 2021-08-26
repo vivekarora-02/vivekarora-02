@@ -9,6 +9,6 @@
      3. Atcoder Profile - [Click Here](https://atcoder.jp/users/vivek_arora)
      4. HackerRank Profile - [Click Here](https://www.hackerrank.com/vivek_arora2024)
 - 💬 Ask me about any tech related query.
-- 📫 How to reach me: LinkedIn [(https://www.linkedin.com/in/vivekarora07/)]
+- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/vivekarora07/)
 - ⚡ I love to draw and make designs.
 - 😄 Moto: NEVER GIVE UP.
