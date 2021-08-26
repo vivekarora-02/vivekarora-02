@@ -41,3 +41,20 @@
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+## Find me on:
+[<img align="left" alt="Vivek Arora | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="_vivek07 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="vivekarora07 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+[twitter]: https://twitter.com/_vivek07?s=08
+[youtube]: https://www.youtube.com/channel/UCsBFZCuE1qszyUrqXEPbleg
+[linkedin]: https://www.linkedin.com/in/vivekarora07/
+[github]: https://github.com/vivekarora-02
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
