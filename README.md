@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**vivekarora-02/vivekarora-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋, I'm Vivek Arora
 
 - 🔭 I’m currently 2nd year undergrad at JIIT, Noida.
 - 🌱 I’m currently learning DSA.
