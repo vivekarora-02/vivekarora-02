@@ -1,7 +1,7 @@
 ## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vivek Arora
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekarora-02&label=Views&color=blue&style=plastic" alt="vivekarora-02" /> </p>
 
-- 🔭 I’m currently 2d year undergrad at JIIT, Noida.
+- 🔭 I’m currently 2nd year undergrad at JIIT, Noida.
 - 🌱 I’m currently learning DSA.
 - 🤔 I’m really passionate about Competitive Programming
 - 🤠 My Competitive Programming Profiles on different online coding platforms.
