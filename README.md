@@ -11,9 +11,10 @@
 
   
 </div>
-  
+
 
 <img align="right" src="./codingcat.gif"/>
+  
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently 2nd year undergrad at JIIT, Noida.
 - 🌱 I’m currently learning DSA.
