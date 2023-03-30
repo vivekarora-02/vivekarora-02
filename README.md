@@ -16,7 +16,7 @@
 <img align="right" src="./coding_cat.gif"/>
   
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently 2nd year undergrad at JIIT, Noida.
+- 🔭 I’m currently 3rd year undergrad at JIIT, Noida.
 - 🌱 I’m currently learning DSA.
 - 🤔 I’m really passionate about Competitive Programming
 - 🤠 My Competitive Programming Profiles on different online coding platforms.
