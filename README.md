@@ -7,7 +7,7 @@
 
   <h1>Hi there, I'm Vivek - aka [<a href="https://github.com/vivekarora-02">vivekarora-02</a>]  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Competetive+Programmer;Passionate+Developer;CSE+Sophomore)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Competetive+Programmer;Passionate+Developer;CSE+Pre-Final year)](https://git.io/typing-svg)
 
   
 </div>
