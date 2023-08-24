@@ -1,85 +1,53 @@
-<div align="center">
-  
-  
-[![linkedin badge](https://img.shields.io/badge/Vivek_Arora-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/vivekarora07/)
-[![twitter badge](https://img.shields.io/badge/@_vivek07-30302f?style=flat&logo=twitter)](https://twitter.com/_vivek07?s=08)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Vivek+Arora....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
+![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
 
-  <h1>Hi there, I'm Vivek - aka [<a href="https://github.com/vivekarora-02">vivekarora-02</a>]  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+- 🔭 Focusing on FullStack Devlopement and Competitive Programming.😎
+- 🌱 Trying to expert in ReactJS and NodeJS ❤
+- 💻 I love to exploring new tech stack and building cool stuffs.
+- 📰 Reading tech documentations whenever possible.
+- 🥅 2023 Goals: Want to be a Fullstack Web Developer and Expert at CodeForces.
+- ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Competetive+Programmer;Passionate+Developer;CSE+PreFinalYear)](https://git.io/typing-svg)
+### Connect With Me:
 
-  
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekarora02/) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__vivvekk_/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_vivek07)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivek.arora2024@gmail.com)
 
+---
 
-<img align="right" src="./coding_cat.gif"/>
-  
-## 🙋‍♂️ About Me
-- 🔭 I’m currently 3rd year undergrad at JIIT, Noida.
-- 🌱 I’m currently learning DSA.
-- 🤔 I’m really passionate about Competitive Programming
-- 🤠 My Competitive Programming Profiles on different online coding platforms.
-     1. CodeChef Profile - [Click Here](https://www.codechef.com/users/vivek_arora)
-     2. Codeforces Profile - [Click Here](https://codeforces.com/profile/vivek_arora02)
-     3. Atcoder Profile - [Click Here](https://atcoder.jp/users/vivek_arora)
-     4. HackerRank Profile - [Click Here](https://www.hackerrank.com/vivek_arora2024)
-- 💬 Ask me about any tech related query.
-- 📫 How to reach me: Gmail - vivek.arora2024@gmail.com
-- ⚡ Fun Fact: I love to draw and make designs.
-- 😄 Moto: NEVER GIVE UP.
+### Languages and Tools:
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E05924?style=flat-square&logo=ubuntu&logoColor=black)
+![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
 
-<br/>
+---
 
-## 🚀 Languages and Tools:
+### My Github Status:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/latex/latex.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code> 
-<code><img height="20" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code> 
-</p>
-<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekarora-02&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Vivek Arora's github status" />
 
+---
 
-## 📊 My Github Stats
+### Top Usage Languages:
 
-<p align="center">
-    <a href="https://github.com/vivekarora-02/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vivek Arora's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekarora-02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekarora-02&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
 
-<a href="https://github.com/vivekarora-02/github-readme-stats"><img alt="Vivek Arora's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vivekarora-02&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/vivekarora-02/github-readme-stats"><img alt="Vivek Arora's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekarora-02&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-## Find me on:
-[<img align="left" alt="Vivek Arora | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="_vivek07 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vivekarora07 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-[twitter]: https://twitter.com/_vivek07?s=08
-[youtube]: https://www.youtube.com/channel/UCsBFZCuE1qszyUrqXEPbleg
-[linkedin]: https://www.linkedin.com/in/vivekarora07/
-[github]: https://github.com/vivekarora-02
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-
-  
-
-  
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=Nushcode)
- -->
+---
