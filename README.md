@@ -11,7 +11,7 @@
 - 💻 I love to exploring new tech stack and building cool stuffs.
 - 📰 Reading tech documentations whenever possible.
 - 🥅 2023 Goals: Want to be a Fullstack Web Developer and Expert at CodeForces.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
+- ⚡ Fun fact: just a random fellow with no jokes.
 ---
 
 ### Connect With Me:
